@@ -1,4 +1,6 @@
 
+//Answer = 233,168
+
 
 var topNum = 1000
 var mult3 = 0
